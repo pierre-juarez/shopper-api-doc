@@ -2,16 +2,14 @@
   "openapi": "3.0.0",
   "info": {
     "title": "App Shopper API",
-    "description": "### Endpoints usados en el Aplicativo **\"App Shopper\"**\n\n**Leyenda:**\n\n- 👽 - Variable solo en PRODUCTION\n    \n- 💢 - Con errores/observaciones\n    \n- 🤡 - No se pudo obtener el -curl de la operación\n    \n- 👀 - ¿Qué hace esta operación?",
+    "description": "### Endpoints usados en el Aplicativo **\"App Shopper\"**\n\n**Leyenda:**\n\n- 👽 - Variable solo en PRODUCTION\n    \n- 💢 - Con errores/observaciones\n    \n- 🤡 - No se pudo obtener el -curl de la operación\n    \n- 👀 - ¿Qué hace esta operaciónn?",
     "contact": {},
     "version": "1.0"
   },
   "servers": [
     {
       "url": "https://apisdevelopment.footloose.pe",
-      "variables": {
-        
-      }
+      "variables": {}
     }
   ],
   "paths": {
