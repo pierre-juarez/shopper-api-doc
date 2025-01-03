@@ -118,7 +118,10 @@
         "deprecated": false,
         "security": [
           {
-            "basic": []
+            "bearer": {
+              "type": "http",
+              "scheme": "bearer"
+            }
           }
         ],
         "servers": [
