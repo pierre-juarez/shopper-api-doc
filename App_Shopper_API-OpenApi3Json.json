@@ -9,7 +9,9 @@
   "servers": [
     {
       "url": "https://apisdevelopment.footloose.pe",
-      "variables": {}
+      "variables": {
+        
+      }
     }
   ],
   "paths": {
