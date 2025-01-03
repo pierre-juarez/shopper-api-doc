@@ -22413,49 +22413,5 @@
     }
   },
   "security": [],
-  "tags": [
-    {
-      "name": "GOB",
-      "description": "API backend conectada a la RENIEC"
-    },
-    {
-      "name": "producto"
-    },
-    {
-      "name": "archivo"
-    },
-    {
-      "name": "auth"
-    },
-    {
-      "name": "tienda"
-    },
-    {
-      "name": "venta"
-    },
-    {
-      "name": "mail"
-    },
-    {
-      "name": "venta-pendiente"
-    },
-    {
-      "name": "cache"
-    },
-    {
-      "name": "historial"
-    },
-    {
-      "name": "Desuso"
-    },
-    {
-      "name": "SIP"
-    },
-    {
-      "name": "MKT"
-    },
-    {
-      "name": "appCol"
-    }
-  ]
+  "tags": []
 }
