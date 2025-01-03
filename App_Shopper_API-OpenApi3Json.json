@@ -22401,7 +22401,16 @@
   },
   "components": {
     "schemas": {},
-    "securitySchemes": {}
+    "securitySchemes": {
+      "basic": {
+        "type": "http",
+        "scheme": "basic"
+      },
+      "bearer": {
+        "type": "http",
+        "scheme": "bearer"
+      }
+    }
   },
   "security": [],
   "tags": [
