@@ -10,10 +10,6 @@
     {
       "url": "https://apisdevelopment.footloose.pe",
       "variables": {}
-    },
-    {
-      "url": "https://apis.footloose.pe",
-      "variables": {}
     }
   ],
   "paths": {
@@ -125,7 +121,12 @@
             "basic": []
           }
         ],
-        "servers": []
+        "servers": [
+          {
+            "url": "https://apis.footloose.pe",
+            "variables": {}
+          }
+        ]
       }
     },
     "/pdv/api/producto/findByFilterAndTda": {
