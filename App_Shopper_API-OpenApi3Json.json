@@ -8,11 +8,11 @@
   },
   "servers": [
     {
-      "url": "http://example.com",
+      "url": "https://apisdevelopment.footloose.pe",
       "variables": {}
     },
     {
-      "url": "https://apisdevelopment.footloose.pe/pdv/api/auth",
+      "url": "https://apis.footloose.pe",
       "variables": {}
     }
   ],
@@ -125,12 +125,7 @@
             "basic": []
           }
         ],
-        "servers": [
-          {
-            "url": "http://example.com",
-            "variables": {}
-          }
-        ]
+        "servers": []
       }
     },
     "/pdv/api/producto/findByFilterAndTda": {
